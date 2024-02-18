@@ -1,1 +1,5 @@
 # projeto-2-estatistica-r-probabilidade-amostragem
+
+Projeto de estátistica e ciência de dados utilizando a linguagem r. Abrangendo os temas de distribuições de probabilidade (poisson, binomial e normal), técnicas de amostragem, nível (e intervalo) de confiança e cálculo de tamanho de amostra. O projeto foi desenvolvido utilizando a plataforma de notebooks do kaggle pois, além de permitir rodar o código em blocos e em nuvem, essa permite que os dados sejam carregados também em nuvem; sem necessidade de mante-los baixados localmente. 
+
+Statistical and data science project using the R language. It encompasses topics such as probability distributions (Poisson, binomial, and normal), sampling techniques, confidence level (and interval), and sample size calculation. The project was developed using the Kaggle notebook platform because, in addition to allowing code to be run in blocks and in the cloud, it also allows data to be loaded in the cloud without the need to keep them downloaded locally.
